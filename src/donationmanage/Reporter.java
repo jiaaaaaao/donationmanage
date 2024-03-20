@@ -26,6 +26,7 @@ public class Reporter {
 			for(String name: donor.keySet()) {
 				System.out.println("donor:" + name);
 				donor.get(name).report();
+				System.out.println("");
 			}
 			
 		} else {
