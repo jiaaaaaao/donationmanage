@@ -1,4 +1,8 @@
 This program is intended for terminal interaction.
+Required JAVA environment version higher than 17
+Start Program:
+`java -jar donationmanage.jar`
+
 1. Create a donation 
    `register:"User":"Donation Type":"Quantity:"Date"`
    e.g.
