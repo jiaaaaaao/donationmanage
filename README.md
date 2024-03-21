@@ -1,6 +1,7 @@
-This program is intended for terminal interaction.
-Required JAVA environment version higher than 17
-Start Program:
+This program is intended for terminal interaction. \n
+Required JAVA environment version higher than 17 \n
+
+Start Program: \n
 `java -jar donationmanage.jar`
 
 1. Create a donation 
